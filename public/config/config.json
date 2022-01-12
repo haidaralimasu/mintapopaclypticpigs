@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD782812b8eb56E011B11f05aE6D1e62a376C0E8e",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd782812b8eb56e011b11f05ae6d1e62a376c0e8e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Apopaclyptic Pigs",
+  "SYMBOL": "AP",
+  "MAX_SUPPLY": 7000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/apopclayptic-pigs",
+  "SHOW_BACKGROUND": true
+}
